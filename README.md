@@ -45,4 +45,59 @@ Sum with Carry:
 
 
 
+# Design and Analysis of VCO in 28nm CMOS Technology
+
+A VCO plays a vital role in communication system, providing a periodic signal required for digital circuit and also a frequency transmission in digital circuit. Their output frequency is a function of control input voltage.
+The proposed circuit is implemented in a 28nm CMOS
+technology
+
+
+# Circuit Diagram
+
+![image](https://user-images.githubusercontent.com/40283371/156200218-093bc9a1-9878-4d47-a67a-dbd391adad4e.png)
+
+
+# Implemented Circuit
+
+![image](https://user-images.githubusercontent.com/40283371/156201120-be1873b2-b4bf-4033-b7a4-deed513edd21.png)
+
+
+
+# Output Waveforms: 
+
+Input Voltage:  1 V
+
+![image](https://user-images.githubusercontent.com/40283371/156200434-fd54d9a2-bbf3-4caf-b912-141a4ae67386.png)
+
+
+Input Voltage:  0.5 V
+
+![image](https://user-images.githubusercontent.com/40283371/156200519-4ecfc9a6-bfd0-4f7e-8162-9384a1510df5.png)
+
+From the above two waveforms we can see that as input voltage increases the frequency of the VCO increases.
+
+
+# Authors 
+Khoushikh S
+
+# Acknowledgements:
+
+1. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
+2. Cloud Based Analog IC Design Hackathon
+3. Synopsys India
+4. Sameer Durgoji, NIT Karnataka
+5. Chinmay panda, IIT Hyderabad
+
+# Referneces:
+
+1. [1] Keivan Navi and Omid Kavehei Low-Power  and High-        Performance 1-Bit CMOS Full-Adder Cell
+2. [2] NidhiTiwari, Ruchi Sharma, Rajesh Parihar Implementation of area and energy efficient Full adder cell
+3. [3] N. H. E. Weste. Cmos vlsi design : A circuits and sys- tems perspective. 
+4. [4] Sandhiya.S, Revathi.S, Dr.B.Vinothkumar: Design of Voltage Controlled Oscillator in 180 nm CMOS Technology
+      
+
+
+
+
+
 
